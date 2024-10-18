@@ -1,0 +1,8 @@
+.card{
+    margin: 0 auto;
+    border: 2px solid aquamarine;
+    margin: 30px;
+    line-height: 25px;
+    border-radius: 18px;
+    font-weight: 700;
+};
